@@ -1,2 +1,2 @@
 # Transliteration
-This repo is an exemplary instance of awesomeness of doing projects under Patel sir.
+The Greek word λογοσ can be transliterated as ``logos'' transliteration, noun. transliterator, noun. Word Origin. C19: trans- + -literate, from Latin lītteraletter.
